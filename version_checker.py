@@ -1,5 +1,5 @@
 import settings
-from os import popen, path
+from os import path
 from requests import get, post
 
 def get_local_version():
